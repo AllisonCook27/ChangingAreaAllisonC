@@ -16,7 +16,7 @@ namespace ChangingAreaAllisonC
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ChangingAreaForm());
+            Application.Run(new frmChangingArea());
         }
     }
 }

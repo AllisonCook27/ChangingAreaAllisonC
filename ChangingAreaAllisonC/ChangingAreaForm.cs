@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace ChangingAreaAllisonC
 {
-    public partial class Form1 : Form
+    public partial class frmChangingArea : Form
     {
-        public Form1()
+        public frmChangingArea()
         {
             InitializeComponent();
+        }
+
+        private void frmChangingArea_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void mniExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
