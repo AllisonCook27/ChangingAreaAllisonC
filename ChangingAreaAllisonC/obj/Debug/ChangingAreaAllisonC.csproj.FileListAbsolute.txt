@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\ChangingAreaAllisonC\ChangingAreaAllisonC\bin\Debug\ChangingAreaAllisonC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\ChangingAreaAllisonC\ChangingAreaAllisonC\bin\Debug\ChangingAreaAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\ChangingAreaAllisonC\ChangingAreaAllisonC\bin\Debug\ChangingAreaAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\ChangingAreaAllisonC\ChangingAreaAllisonC\obj\Debug\ChangingAreaAllisonC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\ChangingAreaAllisonC\ChangingAreaAllisonC\obj\Debug\ChangingAreaAllisonC.frmChangingArea.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\ChangingAreaAllisonC\ChangingAreaAllisonC\obj\Debug\ChangingAreaAllisonC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\ChangingAreaAllisonC\ChangingAreaAllisonC\obj\Debug\ChangingAreaAllisonC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\ChangingAreaAllisonC\ChangingAreaAllisonC\obj\Debug\ChangingAreaAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\ChangingAreaAllisonC\ChangingAreaAllisonC\obj\Debug\ChangingAreaAllisonC.pdb

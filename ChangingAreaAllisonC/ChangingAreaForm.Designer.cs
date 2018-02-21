@@ -29,14 +29,14 @@
         private void InitializeComponent()
         {
             this.mnuMenu = new System.Windows.Forms.MenuStrip();
+            this.mniFile = new System.Windows.Forms.ToolStripMenuItem();
+            this.mniExit = new System.Windows.Forms.ToolStripMenuItem();
             this.lblLenght = new System.Windows.Forms.Label();
             this.lblWidth = new System.Windows.Forms.Label();
             this.lblArea = new System.Windows.Forms.Label();
             this.txtLenght = new System.Windows.Forms.TextBox();
             this.btnCalculate = new System.Windows.Forms.Button();
             this.txtWidth = new System.Windows.Forms.TextBox();
-            this.mniFile = new System.Windows.Forms.ToolStripMenuItem();
-            this.mniExit = new System.Windows.Forms.ToolStripMenuItem();
             this.lblPerimeter = new System.Windows.Forms.Label();
             this.lblAreaAnswer = new System.Windows.Forms.Label();
             this.lblPerimeterAnswer = new System.Windows.Forms.Label();
@@ -52,6 +52,21 @@
             this.mnuMenu.Size = new System.Drawing.Size(383, 24);
             this.mnuMenu.TabIndex = 0;
             this.mnuMenu.Text = "menuStrip1";
+            // 
+            // mniFile
+            // 
+            this.mniFile.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mniExit});
+            this.mniFile.Name = "mniFile";
+            this.mniFile.Size = new System.Drawing.Size(37, 20);
+            this.mniFile.Text = "File";
+            // 
+            // mniExit
+            // 
+            this.mniExit.Name = "mniExit";
+            this.mniExit.Size = new System.Drawing.Size(92, 22);
+            this.mniExit.Text = "Exit";
+            this.mniExit.Click += new System.EventHandler(this.mniExit_Click);
             // 
             // lblLenght
             // 
@@ -103,6 +118,7 @@
             this.btnCalculate.TabIndex = 5;
             this.btnCalculate.Text = "Calculate";
             this.btnCalculate.UseVisualStyleBackColor = false;
+            this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
             // 
             // txtWidth
             // 
@@ -110,21 +126,6 @@
             this.txtWidth.Name = "txtWidth";
             this.txtWidth.Size = new System.Drawing.Size(100, 20);
             this.txtWidth.TabIndex = 6;
-            // 
-            // mniFile
-            // 
-            this.mniFile.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.mniExit});
-            this.mniFile.Name = "mniFile";
-            this.mniFile.Size = new System.Drawing.Size(37, 20);
-            this.mniFile.Text = "File";
-            // 
-            // mniExit
-            // 
-            this.mniExit.Name = "mniExit";
-            this.mniExit.Size = new System.Drawing.Size(152, 22);
-            this.mniExit.Text = "Exit";
-            this.mniExit.Click += new System.EventHandler(this.mniExit_Click);
             // 
             // lblPerimeter
             // 
@@ -176,7 +177,6 @@
             this.MainMenuStrip = this.mnuMenu;
             this.Name = "frmChangingArea";
             this.Text = "Changing Area and Perimeter by Allison C";
-            this.Load += new System.EventHandler(this.frmChangingArea_Load);
             this.mnuMenu.ResumeLayout(false);
             this.mnuMenu.PerformLayout();
             this.ResumeLayout(false);
